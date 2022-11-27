@@ -1,4 +1,6 @@
-Oi sou o Gabriel!
+### Oi sou o Gabriel!     
+  
+
 
 <div align="center">
   <a href="https://github.com/Gabriel-Barth">  
@@ -13,6 +15,10 @@ Oi sou o Gabriel!
   <img align="center" alt="Gabriel_css" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
   <img align="center" alt="Gabriel_git" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Gabriel_git" height="30" width="40" src=   "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  
-
+ 
   </div>
+
+  <br>
+  
+  
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-de-paiva-barth-639270228/)
