@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/Gabriel-Barth">  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Barth&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&PAT_1">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Barth&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Barth&layout=compact&langs_count=7&theme=tokyonight">
 </div>
 <div style="display: inline_block"><br>
